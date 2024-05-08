@@ -1,5 +1,5 @@
 # Fruit-Veg-Recognition-App
-This repository contains the source code and documentation for a Fruit and Vegetable Recognition App. The app is designed to identify and classify various fruits and vegetables using image recognition techniques. It provides a user-friendly interface for capturing or uploading images and receiving real-time results on the type of fruit or vegetable detected.
+This repository contains the source code and documentation for a Fruit and Vegetable Recognition App. The app is designed to identify and classify various fruits and vegetables using image recognition techniques. It provides a user-friendly interface for capturing or uploading images and receiving real-time results on the type of fruit or vegetable detected. This project is for practice. Will be working on improvements.
 
 # Features
 - Image Recognition: Utilizes machine learning algorithms to recognize and classify fruits and vegetables accurately.
